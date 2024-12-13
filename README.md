@@ -39,7 +39,7 @@
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/TalMaIka/Site-Scanner.git`
+1. Clone the repository: `git clone https://github.com/nethussnain/Site-Scanner.git`
 2. Navigate to the project directory: `cd Site-Scanner`
 3. Requirements Installation: `pip install -r requirements.txt`
 
